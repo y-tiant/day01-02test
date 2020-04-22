@@ -2,7 +2,7 @@ package cn.jiyun.pojo;
 
 public class user {
     private String name;
-
+    private int age;
     public String getName() {
         return name;
     }
